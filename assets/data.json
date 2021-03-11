@@ -210,6 +210,29 @@
 
             ],
             "desc": "This is just a test to see how easy it is to change the website. Thanks for the video tutorial, Hyejin!"
+        },
+        {
+            "id": "rlonspike",
+            "title": "Learning Reinforcement Learning with SPIKE",
+            "subtitle": "Learn RL concepts through 2 robot-based and 1 online-based sessions",
+            "authors": "Ziyi Zhang, Sara Willner-Giwerc, Chris Rogers",
+            "teaser": "assets/rlonspike/teaser.png",
+            "tags":["Computational Thinking", "Robotics"],
+            "materials": [
+                { 
+                    "label": "Placemats",
+                    "path": "https://drive.google.com/drive/folders/1ATtLJzOIN6kjlQcH4xxFA3jqj1cj8B6v?usp=sharing"
+                },
+                { 
+                    "label": "Video",
+                    "path": "https://youtu.be/ismXOR-7eRI"
+                },
+                { 
+                    "label": "Code",
+                    "path": "https://github.com/ZyZhangT/rlplayground"
+                }
+            ],
+            "desc": "As AI plays a more prominent role in our everyday lives, it becomes increasingly important to introduce basic AI concepts to K-12 students. Reinforcement Learning (RL) is one of the main paradiams in AI and is interesting to learn. In this project, we designed 2 robot-based and 1 web-based sessions to introduce basic RL concepts to middle and high school students."
         }
     ]
 }
